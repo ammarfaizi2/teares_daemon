@@ -2,4 +2,4 @@
 <?php
 
 require __DIR__."/config.php";
-require __DIR__."/src/{$os}/src/daemon.php";
+require __DIR__."/src/daemon.php";
