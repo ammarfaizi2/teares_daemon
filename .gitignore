@@ -1,0 +1,10 @@
+*.o
+*.so
+*.swo
+*.swp
+*.tmp
+*.pyc
+*.lock
+__pycache__
+/.phpintel/
+/config.php
