@@ -4,6 +4,7 @@
 *.swp
 *.tmp
 *.pyc
+*.log
 *.lock
 __pycache__
 /.phpintel/
